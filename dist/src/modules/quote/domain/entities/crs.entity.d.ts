@@ -1,0 +1,49 @@
+export declare class Crs {
+    referenceTypeId: number;
+    referenceId: string;
+    countryId: number;
+    organisation: string;
+    channelId: number;
+    productId: number;
+    cultureId: number;
+    rqUID: string;
+    includeBenefit: boolean;
+    isSingleTrip: boolean;
+    useDefaultRegion: boolean;
+    departDate: Date;
+    returnDate: Date;
+    countries: number[];
+    coverTypeId: number;
+    age: number[];
+    regionId: number;
+    promoCode: string;
+    excess: string;
+    quoteHighestRegion: boolean;
+    paymentCurrencyId: number;
+    itineraryCurrencyId: number;
+    constructor(obj?: ICrs);
+}
+export interface ICrs {
+    referenceTypeId: number;
+    referenceId: string;
+    countryId: number;
+    organisation: string;
+    channelId: number;
+    productId: number;
+    cultureId: number;
+    rqUID: string;
+    includeBenefit: boolean;
+    isSingleTrip: boolean;
+    useDefaultRegion: boolean;
+    departDate: Date;
+    returnDate: Date;
+    countries: number[];
+    coverTypeId: number;
+    age: number[];
+    regionId: number;
+    promoCode: string;
+    excess: string;
+    quoteHighestRegion: boolean;
+    paymentCurrencyId: number;
+    itineraryCurrencyId: number;
+}

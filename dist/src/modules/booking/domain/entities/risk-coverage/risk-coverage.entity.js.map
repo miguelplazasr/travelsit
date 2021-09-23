@@ -1,0 +1,1 @@
+{"version":3,"file":"risk-coverage.entity.js","sourceRoot":"","sources":["../../../../../../../src/modules/booking/domain/entities/risk-coverage/risk-coverage.entity.ts"],"names":[],"mappings":";;;AAAA,MAAa,kBAAkB;IAK3B,YAAY,GAAqC;QAC7C,IAAI,CAAC,mCAAmC,GAAG,GAAG,IAAI,GAAG,CAAC,mCAAmC,CAAC;QAC1F,IAAI,CAAC,kBAAkB,GAAG,GAAG,IAAI,GAAG,CAAC,kBAAkB,CAAC;IAC5D,CAAC;CAEJ;AAVD,gDAUC"}

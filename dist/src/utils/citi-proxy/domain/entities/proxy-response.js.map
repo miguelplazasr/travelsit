@@ -1,0 +1,1 @@
+{"version":3,"file":"proxy-response.js","sourceRoot":"","sources":["../../../../../../src/utils/citi-proxy/domain/entities/proxy-response.ts"],"names":[],"mappings":";;;AACA,MAAsB,aAAa;IAK/B,YAAsB,YAAe,EAAE,SAAkB,EAAE,QAAgB;QACvE,IAAI,CAAC,YAAY,GAAG,YAAY,CAAC;QACjC,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;QAC3B,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC7B,CAAC;CACJ;AAVD,sCAUC"}
